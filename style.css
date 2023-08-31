@@ -1,0 +1,16 @@
+body{
+    background-color: cadetblue;
+    padding-left: 20rem;
+}
+.lion{
+    text-align: left;
+    line-height:0.9rem;
+}
+.top1{
+    display: inline;
+    margin:7em;
+}
+.top{
+    background-color: green;
+    width: 690px;
+}
